@@ -1,0 +1,71 @@
+State,"State name",County,"County name",Year,Month,"Commodity (partial list)","Cause of loss","Payment indemnity (US$)","Payment acreage","Payment count","Liability (US$)","Subsidy (US$)"
+53,Washington,057,Skagit,1996,5,Wheat,"Excess Moisture/precip/rain",768.00,35.000000,1,777.000000,145.000000
+53,Washington,057,Skagit,1997,6,Wheat,"Cold Wet Weather",55.00,13.700000,1,1328.000000,56.000000
+53,Washington,057,Skagit,1997,8,Wheat,"Cold Wet Weather",1404.00,48.000000,1,3881.000000,189.000000
+53,Washington,057,Skagit,1998,10,Wheat,"Excess Moisture/precip/rain",2237.00,70.500000,1,10552.000000,370.000000
+53,Washington,057,Skagit,1999,10,Wheat,"Excess Moisture/precip/rain",24547.00,483.100000,1,118434.000000,5157.000000
+53,Washington,057,Skagit,2000,4,Wheat,"Excess Moisture/precip/rain",32576.00,379.000000,2,88190.000000,4268.000000
+53,Washington,057,Skagit,2000,5,Wheat,"Excess Moisture/precip/rain",5802.00,92.300000,1,21867.000000,931.000000
+53,Washington,057,Skagit,2000,7,Wheat,"Excess Moisture/precip/rain",6764.00,83.000000,1,10039.000000,452.000000
+53,Washington,057,Skagit,2002,5,Wheat,"Excess Moisture/precip/rain",10291.00,217.900000,1,41533.000000,3023.000000
+53,Washington,057,Skagit,2003,5,Wheat,Heat,5558.00,86.800000,1,19499.000000,1525.000000
+53,Washington,057,Skagit,2003,9,Wheat,Drought,5178.00,60.000000,1,10641.000000,812.000000
+53,Washington,057,Skagit,2004,1,Wheat,Freeze,538.00,35.000000,1,3481.000000,276.000000
+53,Washington,057,Skagit,2004,5,Wheat,"Excess Moisture/precip/rain",19960.00,227.000000,1,46917.000000,3542.000000
+53,Washington,057,Skagit,2004,6,Wheat,Heat,1329.00,20.000000,1,2961.000000,140.000000
+53,Washington,057,Skagit,2004,6,Wheat,Other,11540.00,207.900000,1,23795.000000,1722.000000
+53,Washington,057,Skagit,2004,9,Wheat,"Excess Moisture/precip/rain",1194.00,18.900000,1,4086.000000,291.000000
+53,Washington,057,Skagit,2004,9,Wheat,Other,2786.00,44.100000,1,9534.000000,679.000000
+53,Washington,057,Skagit,2004,12,Wheat,Freeze,1951.00,127.000000,1,17069.000000,1215.000000
+53,Washington,057,Skagit,2005,1,Wheat,"Cold Wet Weather",3241.00,20.000000,1,4154.000000,320.000000
+53,Washington,057,Skagit,2005,2,Wheat,"Cold Wet Weather",7447.00,106.000000,1,24911.000000,1627.000000
+53,Washington,057,Skagit,2005,5,Wheat,"Cold Wet Weather",11618.00,82.000000,1,18514.000000,1277.000000
+53,Washington,057,Skagit,2005,5,Wheat,Heat,2573.00,30.000000,1,6048.000000,142.000000
+53,Washington,057,Skagit,2007,1,Wheat,Freeze,4420.80,33.000000,1,7911.300000,852.300000
+53,Washington,057,Skagit,2007,11,Wheat,"Excess Moisture/precip/rain",10315.20,77.000000,1,18459.700000,1988.700000
+53,Washington,057,Skagit,2008,1,Wheat,"Cold Wet Weather",66865.00,219.170000,2,87742.000000,7768.000000
+53,Washington,057,Skagit,2008,5,Wheat,"Cold Wet Weather",57925.00,308.600000,1,109405.000000,10448.000000
+53,Washington,057,Skagit,2008,7,Wheat,"Cold Wet Weather",16982.00,60.000000,1,20616.000000,2046.000000
+53,Washington,057,Skagit,2009,1,Wheat,"Excess Moisture/precip/rain",123014.13,226.530000,1,127572.470000,9146.990000
+53,Washington,057,Skagit,2009,2,Wheat,"Excess Moisture/precip/rain",30258.87,74.870000,2,43433.930000,3247.210000
+53,Washington,057,Skagit,2009,3,Wheat,"Cold Wet Weather",71148.00,281.000000,1,156217.000000,11791.000000
+53,Washington,057,Skagit,2009,5,Wheat,"Decline In Price",7646.00,35.000000,1,20304.000000,1519.000000
+53,Washington,057,Skagit,2009,9,Wheat,"Decline In Price",94455.00,828.000000,2,481020.600000,33796.800000
+53,Washington,057,Skagit,2010,2,Wheat,"Excess Moisture/precip/rain",30921.00,114.600000,1,52475.000000,2888.000000
+53,Washington,057,Skagit,2010,5,Wheat,"Cold Wet Weather",5442.00,58.000000,1,18348.000000,1146.000000
+53,Washington,057,Skagit,2010,5,Wheat,"Excess Moisture/precip/rain",5026.00,23.700000,1,6827.000000,385.000000
+53,Washington,057,Skagit,2010,6,Wheat,"Cold Wet Weather",951.00,58.000000,1,21600.000000,337.000000
+53,Washington,057,Skagit,2010,8,Wheat,"Excess Moisture/precip/rain",2622.00,28.500000,1,12714.000000,134.000000
+53,Washington,057,Skagit,2010,9,Wheat,"Cold Wet Weather",480.00,21.000000,1,5897.000000,93.000000
+53,Washington,057,Skagit,2011,1,Wheat,"Cold Wet Weather",10345.50,152.000000,2,143373.500000,7633.000000
+53,Washington,057,Skagit,2011,1,Wheat,"Excess Moisture/precip/rain",111115.00,371.000000,2,231890.500000,13243.500000
+53,Washington,057,Skagit,2011,2,Wheat,"Cold Wet Weather",2294.50,40.000000,1,22755.500000,1269.000000
+53,Washington,057,Skagit,2011,2,Wheat,"Cold Winter",23924.00,106.000000,2,40744.500000,2698.500000
+53,Washington,057,Skagit,2011,4,Wheat,"Excess Moisture/precip/rain",95063.00,427.800000,1,104274.500000,6704.000000
+53,Washington,057,Skagit,2011,5,Wheat,"Cold Wet Weather",34089.00,317.400000,1,88197.000000,4242.000000
+53,Washington,057,Skagit,2011,5,Wheat,"Excess Moisture/precip/rain",61875.00,315.400000,2,106215.500000,5403.500000
+53,Washington,057,Skagit,2012,1,Wheat,"Excess Moisture/precip/rain",0.00,20.000000,1,10948.000000,576.000000
+53,Washington,057,Skagit,2012,2,Wheat,"Excess Moisture/precip/rain",31147.00,170.000000,2,99424.000000,5242.000000
+53,Washington,057,Skagit,2012,3,Wheat,"Excess Moisture/precip/rain",153518.00,603.900000,1,400214.000000,18559.000000
+53,Washington,057,Skagit,2012,4,Wheat,"Decline In Price",88.64,0.200000,1,109.480000,5.760000
+53,Washington,057,Skagit,2012,4,Wheat,"Excess Moisture/precip/rain",4343.36,9.800000,1,5364.520000,282.240000
+53,Washington,057,Skagit,2012,5,Wheat,"Cold Wet Weather",24736.00,128.000000,1,26291.000000,1803.000000
+53,Washington,057,Skagit,2012,5,Wheat,"Cold Winter",7677.00,36.900000,1,7677.000000,553.000000
+53,Washington,057,Skagit,2012,5,Wheat,"Excess Moisture/precip/rain",549.60,2.520000,1,549.600000,39.200000
+53,Washington,057,Skagit,2012,6,Wheat,"Cold Wet Weather",91051.00,282.500000,1,131701.000000,5305.000000
+53,Washington,057,Skagit,2012,6,Wheat,"Excess Moisture/precip/rain",3671.40,99.780000,2,49795.400000,998.800000
+53,Washington,057,Skagit,2012,7,Wheat,"Excess Moisture/precip/rain",850.00,17.300000,1,7535.000000,107.000000
+53,Washington,057,Skagit,2013,4,Wheat,"Excess Moisture/precip/rain",14703.60,107.730000,2,40392.700000,1593.700000
+53,Washington,057,Skagit,2013,5,Wheat,"Excess Moisture/precip/rain",15554.40,97.520000,1,53220.000000,2743.200000
+53,Washington,057,Skagit,2013,7,Wheat,Heat,2983.00,19.800000,1,6683.000000,284.000000
+53,Washington,057,Skagit,2013,9,Wheat,"Decline In Price",8223.00,55.250000,1,25113.300000,1160.100000
+53,Washington,057,Skagit,2014,2,Wheat,"Excess Moisture/precip/rain",7391.00,58.700000,1,23076.000000,1140.000000
+53,Washington,057,Skagit,2014,3,Wheat,"Excess Moisture/precip/rain",37847.00,121.200000,1,45753.000000,2604.000000
+53,Washington,057,Skagit,2014,4,Wheat,"Excess Moisture/precip/rain",33576.00,156.000000,2,69188.000000,3532.000000
+53,Washington,057,Skagit,2015,1,Wheat,"Excess Moisture/precip/rain",41022.00,138.000000,1,52359.000000,2867.000000
+53,Washington,057,Skagit,2015,9,Wheat,"Decline In Price",398.34,1.090000,1,426.520000,24.190000
+53,Washington,057,Skagit,2015,12,Wheat,"Excess Moisture/precip/rain",39435.66,107.910000,1,42225.480000,2394.810000
+53,Washington,057,Skagit,2016,1,Wheat,"Cold Wet Weather",20490.40,147.600000,1,51670.000000,3599.600000
+53,Washington,057,Skagit,2016,1,Wheat,"Excess Moisture/precip/rain",4185.30,20.400000,1,7555.500000,476.400000
+53,Washington,057,Skagit,2016,2,Wheat,"Cold Wet Weather",30735.60,221.400000,1,77505.000000,5399.400000
+53,Washington,057,Skagit,2016,12,Wheat,"Excess Moisture/precip/rain",9765.70,47.600000,1,17629.500000,1111.600000
